@@ -2,31 +2,31 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-26T12:29:26 CDT" name="Default suite" finished-at="2022-09-26T12:30:41 CDT" duration-ms="74644">
+  <suite started-at="2022-09-27T11:30:34 CDT" name="Default suite" finished-at="2022-09-27T11:31:50 CDT" duration-ms="75314">
     <groups>
     </groups>
-    <test started-at="2022-09-26T12:29:26 CDT" name="Default test" finished-at="2022-09-26T12:30:41 CDT" duration-ms="74644">
-      <class name="Pages.PageAlojamiento">
-        <test-method is-config="true" signature="beforeMethod(org.testng.ITestContext)[pri:0, instance:Pages.PageAlojamiento@359f7cdf]" started-at="2022-09-26T12:29:26 CDT" name="beforeMethod" finished-at="2022-09-26T12:30:02 CDT" duration-ms="36237" status="PASS">
+    <test started-at="2022-09-27T11:30:34 CDT" name="Default test" finished-at="2022-09-27T11:31:50 CDT" duration-ms="75314">
+      <class name="Test.PageAlojamiento">
+        <test-method is-config="true" signature="beforeMethod(org.testng.ITestContext)[pri:0, instance:Test.PageAlojamiento@9f116cc]" started-at="2022-09-27T11:30:34 CDT" name="beforeMethod" finished-at="2022-09-27T11:30:58 CDT" duration-ms="23935" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@57a48985]]>
+                <![CDATA[org.testng.TestRunner@431f1eaf]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="f()[pri:0, instance:Pages.PageAlojamiento@359f7cdf]" started-at="2022-09-26T12:30:02 CDT" name="f" finished-at="2022-09-26T12:30:40 CDT" duration-ms="37307" status="PASS">
+        <test-method signature="f()[pri:0, instance:Test.PageAlojamiento@9f116cc]" started-at="2022-09-27T11:30:58 CDT" name="f" finished-at="2022-09-27T11:31:48 CDT" duration-ms="50160" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Pages.PageAlojamiento@359f7cdf]" started-at="2022-09-26T12:30:40 CDT" name="afterMethod" finished-at="2022-09-26T12:30:41 CDT" duration-ms="1010" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Test.PageAlojamiento@9f116cc]" started-at="2022-09-27T11:31:48 CDT" name="afterMethod" finished-at="2022-09-27T11:31:50 CDT" duration-ms="1119" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-      </class> <!-- Pages.PageAlojamiento -->
+      </class> <!-- Test.PageAlojamiento -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

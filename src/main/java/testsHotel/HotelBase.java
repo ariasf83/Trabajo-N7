@@ -43,38 +43,4 @@ public class HotelBase {
 	}
 	
 	
-	
-	
-		////////////////////////////////////////////////////////////////////////////////////////////////
-	
-	/*	private WebDriver driver;
-		
-		public void BaseAlojamientos(WebDriver driver) //--> constructor
-		{
-			this.driver = driver;
-		}
-		
-		public static WebDriver DriverConection() //--> metodo para la conexion con chrome
-		{
-			WebDriver driver = null ;
-			
-			System.setProperty("webdriver.chrome.driver", "C:\\WebDrivers/chromedriver.exe");  // ubicacion del webdriver
-			driver = new ChromeDriver(); // creo objeto webdriver
-			
-			
-			//System.setProperty("webdriver.gecko.driver", "C:\\WebDrivers\\geckodriver-v0.31.0-win64/geckodriver.exe");			
-			//driver = new FirefoxDriver();
-			
-			//System.setProperty("webdriver.edge.driver", "C:\\WebDrivers/IEDriverServer.exe");  // ubicacion del webdriver
-			//driver = new EdgeDriver();
-			
-			driver.manage().window().maximize(); // maximiza la ventana
-			driver.get("http://www.despegar.com.ar/hoteles");
-			return driver;
-		} */
-		
-        
-		
-	
-
 }
